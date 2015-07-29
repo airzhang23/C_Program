@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main (void)               /* a simple program             */
+int main (void)               /* a simple program to print number 1    */
 {
    int num;                  /* define a variable called num */
    num = 1;                  /* assign a value to num        */
